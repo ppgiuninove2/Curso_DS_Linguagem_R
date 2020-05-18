@@ -1,7 +1,7 @@
 ![Alt text](https://s3.uninove.br/app/uploads/2015/08/22125944/1534964384-1534964384-ppgi_topo_portal.jpg)
 
 # Curso_DS_Linguagem_R
-Material do Curso de Introduçõa a Ciência de Dados com Linguagem R
+Material do Curso de Introdução a Ciência de Dados com Linguagem R
 
 O Programa de Pós-graduação em Informática e Gestão do Conhecimento da Universidade Nove de Julho tem como objetivo a formação de Mestres e Doutores qualificados cientificamente com competência para o desenvolvimento de atividades de ensino, pesquisa científica, P&D e de extensão. Desta forma, busca-se formar profissionais com espírito inovador, dotando seus egressos com metodologias, técnicas, ferramentas e recursos para atuarem de forma eficiente nos setores acadêmico e empresarial, propiciando assim conhecimento técnico e científico nas áreas abrangidas pelo Programa. Não obstante, busca-se ainda capacitar o egresso ao desenvolvimento de pesquisas nas áreas de competência do curso, por meio de uma sólida formação de pesquisa científica básica e aplicada, que o capacite a atuar na resolução de problemas complexos que exijam conhecimento interdisciplinar nas áreas de Modelagem e Simulação Computacional, Sistemas Inteligentes e Gestão da Informação e do Conhecimento.
 
